@@ -11,5 +11,31 @@
     margin: 60px auto;
     width:"80%";
     height: 150px;
-    
+
+}
+a.sandylink {
+    color: #c3baba;
+    font-size: 30px;
+    margin-left: 10px;
+    background-color: #736f72;
+    border-radius: 30px;
+    padding: 0px 20px;
+}.sandylink:hover {
+    color: #9a8f97;
+    font-size: 30px;
+    background-color: #736f72;
+    border-radius: 30px;
+    padding: 0px 20px;
+}
+.sandylink{
+    text-align: center;
+}
+.sandybig {
+    font-size: 20px;
+    font-weight: 600;
+}
+.sandygo {
+    font-size: 35px;
+    text-align: center;
+    color: #9a8f97;
 }
