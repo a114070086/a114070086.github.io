@@ -39,3 +39,10 @@ a.sandylink {
     text-align: center;
     color: #9a8f97;
 }
+#about {
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url(../assets/img/bg.jpg);
+    background-position: center;
+    background-attachment: fixed;
+}
