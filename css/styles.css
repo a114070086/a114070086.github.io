@@ -168,6 +168,7 @@ h6, .h6 {
 p {
   margin-top: 0;
   margin-bottom: 1rem;
+  font-family: "Noto Serif TC", serif;
 }
 
 abbr[title] {
@@ -8036,7 +8037,7 @@ textarea.form-control-lg {
 /* rtl:end:remove */
 .text-primary {
   --bs-text-opacity: 1;
-  color: #9a8f97 !important;
+  color: #c3baba !important;
 }
 
 .text-secondary {
